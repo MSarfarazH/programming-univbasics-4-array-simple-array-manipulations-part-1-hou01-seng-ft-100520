@@ -26,7 +26,7 @@ understanding what the method returns. For instance, when you call `.push` on an
 array, it returns the updated array:
 
 ```ruby
-artists = ["Hozier", "Ariana Grande", "Usher"]
+ artists = ["Hozier", "Ariana Grande", "Usher"]
 next_artist = "Beyonce"
 artists.push(next_artist)
 # => ["Hozier", "Ariana Grande", "Usher", "Beyonce"]
